@@ -1,1 +1,6 @@
-TimeKeeper Specification
+﻿TimeKeeper Specification
+
+* クライアント
+
+* サーバー
+Python
